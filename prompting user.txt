@@ -1,0 +1,32 @@
+Mountain Pacific Corporation
+Department Salary Program
+
+Please enter the name of the department: Marketing
+
+Enter employee #1: Juan Arago
+Enter the hourly wage of Juan Arago: 12.50
+Enter total number of hours: 40
+
+Thank you. Process another employee? Y
+
+Enter employee #2: Winnie Chen
+Enter the hourly wage of Winnie Chen: 11.45
+Enter total number of hours: 45.5
+
+Thank you. Process another employee? y
+
+Enter employee #3: Jack Donovan
+Enter the hourly wage of Jack Donovan: 16.80
+Enter total number of hours: 60
+
+Thank you. Process another employee? Y
+
+Enter employee #4: Francine Jackson
+Enter the hourly wage of Francine Jackson: 19.00
+Enter total number of hours: 35
+
+Thank you. Process another employee? n
+
+End of processing.
+
+
